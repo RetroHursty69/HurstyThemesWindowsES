@@ -1,6 +1,6 @@
 OVERVIEW
 
-NOTE:	Windows Defender may delete the 'themerandom.exe' file. You will need to disable your defence to keep this file.
+NOTE:	Windows Defender may delete the 'HurstyThemes.exe' file. You will need to disable your defence to keep this file.
 
 Hursty's Theme Windows Emulation Station Downloader
 
